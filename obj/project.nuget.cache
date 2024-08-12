@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "V9uX5AasgEs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\ksfuh\\ImageDownloader\\ImageDownloader.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ksfuh\\.nuget\\packages\\htmlagilitypack\\1.11.62\\htmlagilitypack.1.11.62.nupkg.sha512"
+  ],
+  "logs": []
+}
